@@ -4,3 +4,7 @@
   <img alt="Discord" src="https://img.shields.io/discord/260151582337794058?label=Discord&logo=Discord&logoColor=0036D6&style=social"> &nbsp
   <img alt="Hitcount" src="https://hits.dwyl.com/Technetium1/Technetium1.svg"> &nbsp
 </p>
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Technetium1&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true"> &nbsp
+</p>
