@@ -6,5 +6,6 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Technetium1&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true"> &nbsp
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Technetium1&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true "> &nbsp
+  <img alt="Language Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technetium1&count_private=true&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"> &nbsp
 </p>
