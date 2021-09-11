@@ -8,5 +8,6 @@
   <img alt="Language Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technetium1&count_private=true&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"> &nbsp
 </p>
 <p align="center">
+  <a href="https://discord.com/widget?id=260151582337794058&theme=dark">
   <img width="30%" alt="Click to join Discord!" src="https://discordapp.com/api/guilds/260151582337794058/widget.png?style=banner2"/> &nbsp
 </p>
