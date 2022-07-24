@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/widget?id=260151582337794058&theme=dark">
-  <img width="30%" alt="Click to join Discord!" src="https://discordapp.com/api/guilds/260151582337794058/widget.png?style=banner2"/> &nbsp
+  <img width="35%" alt="Click to join Discord!" src="https://discordapp.com/api/guilds/260151582337794058/widget.png?style=banner2"/> &nbsp
 </p>
 
 <a href="https://github.com/Technetium1#gh-light-mode-only" align="center">
