@@ -17,7 +17,7 @@
   <img alt="GitHub Snake Light" src="https://github.com/Technetium1/Technetium1/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
   </a>
 </p>
-                                                                                                                                                
+
 <p align="center">
   <a href="https://github.com/Technetium1#gh-dark-mode-only>
   <img alt="GitHub Snake Light" src="https://github.com/Technetium1/Technetium1/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
