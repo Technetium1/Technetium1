@@ -2,9 +2,15 @@
   <a href="https://t.me/Technetium1">
   <img alt="Contact on Telegram" src="https://img.shields.io/badge/-@Technetium1-0088CC?style=flat&logo=Telegram"/img>
   </a> &nbsp
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Technetium1?label=GitHub%20Followers&style=social"> &nbsp
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Compdude1?style=social"> &nbsp
-  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FTechnetium1&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false"> &nbsp
+  <a href="https://github.com/Technetium1?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Technetium1?label=GitHub%20Followers&style=social"> 
+  </a> &nbsp
+  <a href="https://twitter.com/intent/follow?user_id=600767763">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Compdude1?style=social">
+  </a> &nbsp
+  <a href="https://github.com/Technetium1">
+  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FTechnetium1&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false">
+  </a> &nbsp
 </p>
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Technetium1&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
