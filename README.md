@@ -12,14 +12,10 @@
   <img width="30%" alt="Click to join Discord!" src="https://discordapp.com/api/guilds/260151582337794058/widget.png?style=banner2"/> &nbsp
 </p>
 
-<p align="center">
-  <a href="https://github.com/Technetium1#gh-light-mode-only>
+<a href="https://github.com/Technetium1#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://github.com/Technetium1/Technetium1/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  </a>
-</p>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Technetium1#gh-dark-mode-only>
-  <img alt="GitHub Snake Light" src="https://github.com/Technetium1/Technetium1/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  </a>
-</p>
+<a href="https://github.com/Technetium1#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://github.com/Technetium1/Technetium1/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</a>
