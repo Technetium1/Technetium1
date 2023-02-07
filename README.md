@@ -5,9 +5,6 @@
   <a href="https://github.com/Technetium1?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Technetium1?label=GitHub%20Followers&style=social"> 
   </a> &nbsp
-  <a href="https://twitter.com/intent/follow?user_id=600767763">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Compdude1?style=social">
-  </a> &nbsp
   <a href="https://github.com/Technetium1">
   <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FTechnetium1&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false">
   </a> &nbsp
