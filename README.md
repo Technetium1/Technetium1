@@ -13,11 +13,6 @@
   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Technetium1&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
   <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Technetium1&count_private=true&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"> &nbsp
 </p>
-<p align="center">
-  <a href="https://discord.com/widget?id=260151582337794058&theme=dark">
-  <img width="35%" alt="Click to join Discord!" src="https://discordapp.com/api/guilds/260151582337794058/widget.png?style=banner2"/> &nbsp
-</p>
-
 <a href="https://github.com/Technetium1#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://github.com/Technetium1/Technetium1/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
