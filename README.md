@@ -8,6 +8,9 @@
   <a href="https://github.com/Technetium1">
   <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FTechnetium1&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false">
   </a> &nbsp
+  <a href="https://gitlab.com/Technetium1">
+  <img alt="GitLab Profile" style="height:20px;" src="https://images.ctfassets.net/xz1dnu24egyd/4QGmokIyrhHxpfmYIKHq17/ef43a9f88f2a9c1da8f5382383756d46/gitlab-logo-150.jpg">
+  </a> &nbsp
 </p>
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Technetium1&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
